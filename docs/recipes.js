@@ -1,6 +1,6 @@
 var boshRecipes = [];
-var bishBashBoshRecipe = [];
-var boshHealthyVeganRecipe = [];
+var bishBashBoshRecipes = [];
+var boshHealthyVeganRecipes = [];
 var speedyBoshRecipes = [
     { location: 'Speedy Bosh p. 29', name: 'Cheat\'s Toad in the Hole with Curry Gravy', type: '' },
     { location: 'Speedy Bosh p. 30', name: 'Aubergine & Lentil Meatball Pasta', type: '' },
