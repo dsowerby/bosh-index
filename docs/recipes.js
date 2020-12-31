@@ -1,5 +1,13 @@
 var boshRecipes = [];
 var bishBashBoshRecipes = [
+
+    { location: 'Bish Bash Bosh (Waterstones exclusive) p. ii', name: 'Thai Green Curry', type: ''},
+    { location: 'Bish Bash Bosh (Waterstones exclusive) p. iv', name: 'Moreish Moussaka', type: ''},
+    { location: 'Bish Bash Bosh (Waterstones exclusive) p. viii', name: 'Xim Xim', type: ''},
+    { location: 'Bish Bash Bosh (Waterstones exclusive) p. xi', name: 'Cauliflower Alfredo', type: ''},
+    { location: 'Bish Bash Bosh (Waterstones exclusive) p. xii', name: 'Baked BBQ Taquitos', type: ''},
+    { location: 'Bish Bash Bosh (Waterstones exclusive) p. xv', name: 'Cinnamon Swirls', type: ''},
+
     { location: 'Bish Bash Bosh p. 28', name: 'One-Tray Pasanda', type: 'curry indian'},
     { location: 'Bish Bash Bosh p. 31', name: 'Turbo Tortila', type: ''},
     { location: 'Bish Bash Bosh p. 32', name: 'Super-Speedy Spaghetti', type: ''},
