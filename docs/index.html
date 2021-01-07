@@ -114,6 +114,7 @@
 			if (window.location.search != null) {
 				var query = new URLSearchParams(window.location.search).get('query');
 				recipeList.search(query);
+				$('.search').text(query);
 			}
 		});
 	</script>
