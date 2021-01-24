@@ -359,7 +359,7 @@ var boshHealthyVeganRecipes = [
     { location: 'BOSH! Healthy Vegan p. 198', name: 'Bakewell BOSH! Balls', type: 'treats'},
     { location: 'BOSH! Healthy Vegan p. 198', name: 'Cookie Dough BOSH! Balls', type: 'treats chocolate'},
     { location: 'BOSH! Healthy Vegan p. 199', name: 'BOSH! Brownie Balls', type: 'treats chocolate'},
-    { location: 'BOSH! Healthy Vegan p. 203', name: 'Jacked Oat Bars', type: 'treats flapjacks chocolate'},
+    { location: 'BOSH! Healthy Vegan p. 203', name: 'Jacked Flapjacks', type: 'treats oat bars chocolate'},
     { location: 'BOSH! Healthy Vegan p. 204', name: 'Banana Berry Ice Cream', type: 'treats'},
     { location: 'BOSH! Healthy Vegan p. 207', name: 'PB&J Thumbprint Cookies', type: 'treats'},
     { location: 'BOSH! Healthy Vegan p. 210', name: 'Green Goddess Smoothie', type: 'breakfast' },
