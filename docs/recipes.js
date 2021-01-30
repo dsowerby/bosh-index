@@ -371,7 +371,7 @@ var boshHealthyVeganRecipes = [
     { location: 'BOSH! Healthy Vegan p. 220', name: 'Maple Pecan Granola', type: 'breakfast' },
     { location: 'BOSH! Healthy Vegan p. 223', name: 'Barcelona Breakfast Burrito', type: 'breakfast avocado chickpeas' },
     { location: 'BOSH! Healthy Vegan p. 224', name: 'BOSH! Bars', type: 'breakfast banana' },
-    { location: 'BOSH! Healthy Vegan p. 227', name: 'Breakfast of Champignons', type: 'breakfast' },
+    { location: 'BOSH! Healthy Vegan p. 227', name: 'Breakfast of Champignons', type: 'breakfast mushrooms  thyme bread pinach' },
     { location: 'BOSH! Healthy Vegan p. 229', name: 'Summer Berry Granola Bowl', type: 'breakfast berry berries' },
     { location: 'BOSH! Healthy Vegan p. 230', name: 'Healthy Banana French Toast', type: 'breakfast banana berry berries' },
     { location: 'BOSH! Healthy Vegan p. 232', name: 'Garden Party Breakfast Bowl', type: 'breakfast blueberry blueberries' },
